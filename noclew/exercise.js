@@ -23,6 +23,7 @@ exercise.largerSalary = function largerSalary(item){
 
     // ---------------------------------------------------
     return item[18] > exercise.salary;
+    // this is a fake comment
     // ---------------------------------------------------
 
 };
